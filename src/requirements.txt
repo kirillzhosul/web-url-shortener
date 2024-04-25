@@ -7,7 +7,7 @@ gunicorn==20.1.0
 
 # Utils.
 hashids==1.3.1
-pydantic==1.10.2
+pydantic==1.10.13
 
 # Database,
 flask-sqlalchemy==3.0.2
